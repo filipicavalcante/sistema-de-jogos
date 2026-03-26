@@ -26,8 +26,8 @@ int main() {
                 printf("Bem vindo ao jogo Perguntas e Respostas\n");
                 printf("\nResponda apenas com a, b, c, d\n");
                 printf("\nVamos para a primeira pergunta.\n");
-                printf("Qual e o unico mamifero capaz de voar de forma sustentada?\n");
-                printf("a) Pinguim  b) Morcego  c) Esquilo-voador  d) Pterodactilo\n");
+                printf("Qual e o unico mamifero capaz de consehuir se guiar pelo som?\n");
+                printf("a) Pinguim  b) Morcego  c) Esquilo-voador  d) falcão\n");
                 printf("Sua resposta: ");
                 scanf(" %c", &resposta);
                 if (resposta == 'b') {
@@ -36,8 +36,8 @@ int main() {
                     printf("Incorreta! A resposta correta: b) Morcego\n");
                 }
 
-                printf("\nQual e o numero aproximado de ossos no corpo humano adulto?\n");
-                printf("a) 156   b) 256  c) 206   d) 306\n");
+                printf("\nQual e o maior orgão do  ser humano ?\n");
+                printf("a) intestino   b) figado  c) pele   d) coração\n");
                 printf("Sua resposta: ");
                 scanf(" %c", &resposta);
                 if (resposta == 'c') {
@@ -66,7 +66,7 @@ int main() {
                     printf("\nIncorreta! A resposta correta: d) 300.000\n");
                 }
 
-                printf("\nQual e o elemento quimico com o maior numero atomico encontrado na natureza?\n");
+                printf("\nQual e o elemento quimico e usado em usinas nucleares para gerar energia?\n");
                 printf("a) Uranio  b) Plutonio  c) Torio  d) Radio\n");
                 printf("Sua resposta: ");
                 scanf(" %c", &resposta);
