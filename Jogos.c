@@ -26,7 +26,7 @@ int main() {
                 printf("Bem vindo ao jogo Perguntas e Respostas\n");
                 printf("\nResponda apenas com a, b, c, d\n");
                 printf("\nVamos para a primeira pergunta.\n");
-                printf("Qual e o unico mamifero capaz de consehuir se guiar pelo som?\n");
+                printf("Qual e o unico mamifero capaz de conseguir se guiar pelo som?\n");
                 printf("a) Pinguim  b) Morcego  c) Esquilo-voador  d) falcão\n");
                 printf("Sua resposta: ");
                 scanf(" %c", &resposta);
