@@ -1,1 +1,2 @@
-# sistema-de-jogos
+# Sistema de jogos
+Eu sou Filipi cavalcante e fiz esses tres jogos, sendo eles "PERGUNTA E RESPOSTA", "COBRA NA CAIXA", E "GOUSMAS WAR",a mando do professor Pedro Girotto , com o intuito de testar as minhas habilidades de raciocinio algoritimico e resolução de problemas. Agora irei explicar um pouco dos jogos, Pergunta e resposta,a premisa do jogo a pricipio e criar 5 perguntas com respostas pre determinadas no codigo onde o jogador so vence se conseguir acertar as 5 , bom agora no codigo oque eu fiz nesse jogo foi uma sequencia de if e else, onde o if so aceitaria  a resposta correta que eu predeterminei no codigo e o else para aparecer resposta incorreta 
